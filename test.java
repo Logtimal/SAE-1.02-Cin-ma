@@ -1,4 +1,4 @@
 public class test {
-    System.out.print("Hello_Java");
-    System.out.print("Hello World");
+    System.out.println("Hello_Java");
+    System.out.println("Hello World");
 }
